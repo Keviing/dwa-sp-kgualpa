@@ -1,0 +1,33 @@
+[
+    {
+        "nombre":"Pizza",
+        "descripcion":"Rica Pizza",
+        "costo":"$1.50",
+        "url":"assest/imagenes/menu-pizza.jpg"
+    },{ 
+        "nombre":"Hamburgesa",
+        "descripcion":"Rica hamburguesa",
+        "costo":"$2.50",
+        "url":"assest/imagenes/menu-burger.jpg"
+    },{
+        "nombre":"Momo",
+        "descripcion":"Rico momo",
+        "costo":"$3.00",
+        "url":"assest/imagenes/menu-momo.jpg"
+    },{
+        "nombre":"plato",
+        "descripcion":"Rica hamburguesa",
+        "costo":"$2.50",
+        "url":"assest/imagenes/menu-burger.jpg"
+    },{
+        "nombre":"Pizza",
+        "descripcion":"Rica Pizza",
+        "costo":"$1.50",
+        "url":"assest/imagenes/menu-pizza.jpg"
+    },{
+        "nombre":"Pizza",
+        "descripcion":"Rica Pizza",
+        "costo":"$1.50",
+        "url":"assest/imagenes/menu-pizza.jpg"
+    }
+]

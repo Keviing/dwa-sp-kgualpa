@@ -1,0 +1,11 @@
+
+    [{
+        "nombre":"Pizza",
+        "url":"assest/imagenes/pizza.jpg"
+    },{
+        "nombre":"Burger",
+        "url":"assest/imagenes/burger.jpg"
+    },{
+        "nombre":"Momo",
+        "url":"assest/imagenes/momo.jpg"
+    }]
