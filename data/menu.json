@@ -2,7 +2,12 @@
     {
         "nombre":"Pizza",
         "descripcion":"Rica Pizza",
-        "costo":"$1.50",
+        "costo":"$3.50",
+        "url":"assest/imagenes/menu-pizza.jpg"
+    },{
+        "nombre":"Pizza hawaiana",
+        "descripcion":"Rica Pizza con piña",
+        "costo":"$4.50",
         "url":"assest/imagenes/menu-pizza.jpg"
     },{ 
         "nombre":"Hamburgesa",
@@ -10,24 +15,19 @@
         "costo":"$2.50",
         "url":"assest/imagenes/menu-burger.jpg"
     },{
-        "nombre":"Momo",
-        "descripcion":"Rico momo",
+        "nombre":"Hamburguesa doble",
+        "descripcion":"Rica hamburguesa con doble carne",
+        "costo":"$3.50",
+        "url":"assest/imagenes/menu-burger.jpg"
+    },{
+        "nombre":"empanada",
+        "descripcion":"Rico empanada rellena",
         "costo":"$3.00",
         "url":"assest/imagenes/menu-momo.jpg"
     },{
         "nombre":"plato",
-        "descripcion":"Rica hamburguesa",
+        "descripcion":"comida deliciosa",
         "costo":"$2.50",
-        "url":"assest/imagenes/menu-burger.jpg"
-    },{
-        "nombre":"Pizza",
-        "descripcion":"Rica Pizza",
-        "costo":"$1.50",
-        "url":"assest/imagenes/menu-pizza.jpg"
-    },{
-        "nombre":"Pizza",
-        "descripcion":"Rica Pizza",
-        "costo":"$1.50",
-        "url":"assest/imagenes/menu-pizza.jpg"
+        "url":"assest/imagenes/menu-momo.jpg"
     }
 ]

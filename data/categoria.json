@@ -3,9 +3,9 @@
         "nombre":"Pizza",
         "url":"assest/imagenes/pizza.jpg"
     },{
-        "nombre":"Burger",
+        "nombre":"Hamburgesa",
         "url":"assest/imagenes/burger.jpg"
     },{
-        "nombre":"Momo",
+        "nombre":"empanada",
         "url":"assest/imagenes/momo.jpg"
     }]

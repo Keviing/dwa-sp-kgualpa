@@ -3,7 +3,7 @@ const fs = require('fs');
 
 //Helpers
 hbs.registerHelper('productos', ()=>{
-    var jsonString = fs.readFileSync("./data/datos.json");
+    var jsonString = fs.readFileSync("./data/categoria.json");
     var data = JSON.parse(jsonString);
     var products = "";
 
